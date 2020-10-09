@@ -1,5 +1,6 @@
 ## TUGAS NIRKABEL
 # Keamanan jaringan nirkabel
+![Image](fikri.png)
 ## WEP (Wired Equivalent Privacy)
 WEP adalah suatu metode pengamanan jaringan nirkabel, merupakan standar keamanan & enkripsi pertama yang digunakan pada wirelessEnkripsi WEP menggunakan kunci yang dimasukkan (oleh administrator) ke klien maupun access point.
 ## WPA (WI-FI Protected Access)
